@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hotdogc1017
-- 👀 I’m interested in Java，Vue，React，TypeScript
+- 👀 I’m interested in Java，Vue，React，TypeScript, Nuxt
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me email: hotdogc1017@163.com and WeChat：cafebaby-
 
